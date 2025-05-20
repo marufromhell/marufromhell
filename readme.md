@@ -1,6 +1,10 @@
 Hey, I'm Maru  
 I write mostly in python. I occasionally write small projects in rust and C, but they usually aren't significant.
-Check out my biggest project NKNK, the python CLI. Or ghscraper, my github user info collecter.
+Projects:
+* NKNK - a python cli that runs inbetween your terminal and the cli, support command completion, inline python, and python function shortcuts.
+* Ghscraper - collects data on a github user by cloning all their repos, searching commit logs for email leaks, and checks for api/name leaks. To protect idiots from doxxing. or doxxing idiots, your choice.
+* DSH - uses a serial connection to interpret its own programming language. can use flipper cli commands, aswell as local python, and javascript. or anything else, you choose to port.
+
 
 Contact:  
 Email: maru@lithium-dev.xyz (pgp attached in marufromhell/marufromhell)
