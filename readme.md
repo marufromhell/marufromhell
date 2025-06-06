@@ -4,7 +4,7 @@ Projects:
 * NKNK - a python cli that runs inbetween your terminal and the cli, support command completion, inline python, and python function shortcuts.
 * Ghscraper - collects data on a github user by cloning all their repos, searching commit logs for email leaks, and checks for api/name leaks. To protect idiots from doxxing. or doxxing idiots, your choice.
 * DSH - uses a serial connection to interpret its own programming language. can use flipper cli commands, aswell as local python, and javascript. or anything else, you choose to port.
-
+* Papaya - a unholy creation that allows you to write python scripts without using parenthesis
 
 Contact:  
 Email: maru@lithium-dev.xyz (pgp attached in marufromhell/marufromhell)
