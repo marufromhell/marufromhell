@@ -1,5 +1,5 @@
 Hey, I'm Maru  
-I write mostly in python. I occasionally write small projects in rust and C, but they usually aren't significant.
+I write mostly in python. I occasionally write small projects in rust and C, but they usually aren't significant. The projects i make are usually because they make my life more convinient, if they make yours aswell. Great!
 Projects:
 * NKNK - a python cli that runs inbetween your terminal and the cli, supports command completion, inline python, and python function shortcuts, git integration, and zoxide integration. this is my favorite project ive ever done, because its actually so useful.
   
