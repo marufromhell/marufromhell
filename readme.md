@@ -7,8 +7,8 @@ Projects:
 * Papaya - a unholy creation that allows you to write python scripts without using parenthesis
 
 Contact:  
-Email: maru@lithium-dev.xyz (pgp attached in marufromhell/marufromhell)
-Signal: maru.222 
+Email: maru@lithium-dev.xyz (pgp attached in marufromhell/marufromhell)  
+Signal: maru.222  
 
 Crypto:  
 BTC: 16innLYQtz123HTwNLY3vScPmEVP7tob8u  
