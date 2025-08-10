@@ -1,0 +1,27 @@
+Projects:
+  NKNK: "A Python CLI that runs in between your terminal and the CLI, supports command completion, inline Python, and Python function shortcuts, git integration, and zoxide integration. This is my favorite project."
+  Ghscraper: "Collects data on a GitHub user by cloning all their repos, searching commit logs for email leaks, and checks for API/name leaks. To protect idiots from doxxing. Or doxxing idiots, your choice."
+  DSH: "Shell scripting for the Flipper Zero. Uses a serial connection to interpret its own programming language. Can use Flipper CLI commands, as well as local Python, and JavaScript. Or anything else you want."
+  Papaya: "An unholy creation that allows you to write Python scripts without using parentheses."
+
+Contact:
+  Email: "maru@lithium-dev.xyz (pgp attached in marufromhell/marufromhell)"
+  Signal: "maru.222"
+
+Crypto:
+  XMR: "49dNpgP5QSpPDF1YUVuU3ST2tUWng32m8crGQ4NuM6U44CG1ennTvESWbwK6epkfJ6LuAKYjSDKqKNtbtJnU71gi6GrF4Wh"
+
+Working on:
+  - nothing
+
+Maintaining:
+  - NKNK
+  - Ghscraper
+
+Unmaintained:
+  - DSH
+  - Py-Typer
+  - Papaya
+  - inefficent
+  - ksl
+Funfact: This is valid yaml
